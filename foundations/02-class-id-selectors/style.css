@@ -1,6 +1,23 @@
 .odd {
     font-family:"Verdana, DejaVu Sans, sans-serif";
-    color-background: #FFC0CB;
-
-
+    background-color: #FFC0CB;
+}
+#two {
+    
+    color: blue;
+    font-size:36px
+   
+}
+#four{
+    background-color: lightgreen;
+    font-weight: 700;
+    font-size:24px;
+}
+.threefour{
+    font-size: 24px;
+    
+}
+div {
+    font-family:"sans-serif";
+    
 }
